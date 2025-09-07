@@ -7,7 +7,7 @@ public class B {
 <<<<<<< HEAD
    System.out.println("Master Excellet performance");
 =======
-   System.out.println("Feature Excellet performance");
+   System.out.println("Feature Excellet performance Smita");
 >>>>>>> feature
 	}
 
